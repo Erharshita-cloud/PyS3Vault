@@ -35,16 +35,25 @@ pip install boto3
 
 ---
 
-## Output
+Output
 
-Once the script runs successfully, you will see a confirmation of the bucket creation, bucket listing, and backup upload.
+Once the script runs successfully, you will see:
 
-## Folder Structure
+Confirmation of the bucket creation
+
+Listing of all buckets in your account
+
+Confirmation that the backup was uploaded successfully
+
+---
+
+Folder Structure
 PyS3Vault/
 │
 ├─ scripts/
 │   └─ s3_backup.py          # Python script for backup automation
 ├─ images/
 │   └─ backup_success.png    # Screenshot of successful backup
+├─ backups/                  # Optional: store backup files
 └─ README.md
 
