@@ -33,5 +33,3 @@ pip install boto3
 
    python scripts/s3_backup.py
 
----
-
