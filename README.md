@@ -33,11 +33,13 @@ pip install boto3
 
    python scripts/s3_backup.py
 
-Output
+---
+
+## Output
 
 Once the script runs successfully, you will see a confirmation of the bucket creation, bucket listing, and backup upload.
 
-Folder Structure
+## Folder Structure
 PyS3Vault/
 │
 ├─ scripts/
