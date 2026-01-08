@@ -27,7 +27,7 @@ pip install boto3
   * bucket_name → Your desired S3 bucket name
   * region → AWS region (e.g., ap-south-1)
   * file_name → Path to your local backup file
-  *  key_name → Name of the file in S3
+  * key_name → Name of the file in S3
 
 3. Run the script
 
