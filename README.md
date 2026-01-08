@@ -15,7 +15,9 @@ PyS3Vault is a Python-powered automation tool that securely uploads your local b
 🚀 How to Use
 
 1️⃣ Install Dependencies
+
  pip install boto3
 
 2️⃣ Run the Script
+
  python scripts/s3_backup.py
