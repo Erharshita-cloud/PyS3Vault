@@ -1,4 +1,4 @@
-##🗄️ PyS3Vault
+# **🗄️ PyS3Vault**
 
 Automate Your Local Backups to AWS S3 Effortlessly
 
