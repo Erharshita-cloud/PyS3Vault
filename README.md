@@ -6,22 +6,22 @@ PyS3Vault is a Python-powered automation tool that securely uploads your local b
 
 ✨ Features
 
-    ✅ Automatically creates an S3 bucket if it doesn’t exist
+ ✅ Automatically creates an S3 bucket if it doesn’t exist
          
-    📤 Uploads local backup files to your S3 bucket
+📤 Uploads local backup files to your S3 bucket
          
-    📂 Lists all buckets in your AWS account
+📂 Lists all buckets in your AWS account
          
-    🐍 Built with Python and Boto3 for seamless integration
+🐍 Built with Python and Boto3 for seamless integration
          
-    ⚡ Lightweight, fast, and highly customizable
+⚡ Lightweight, fast, and highly customizable
 
 🚀 How to Use
 
-1️⃣ Install Dependencies
+    1️⃣ Install Dependencies
+    
+     pip install boto3
 
- pip install boto3
-
-2️⃣ Run the Script
-
- python scripts/s3_backup.py
+    2️⃣ Run the Script
+    
+     python scripts/s3_backup.py
